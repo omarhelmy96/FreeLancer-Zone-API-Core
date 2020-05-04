@@ -1,0 +1,42 @@
+C:\Users\HP\source\repos\GraduationApi v1.0\GraduationApi v1.0\bin\Debug\netcoreapp2.2\GraduationApi v1.0.deps.json
+C:\Users\HP\source\repos\GraduationApi v1.0\GraduationApi v1.0\bin\Debug\netcoreapp2.2\GraduationApi v1.0.runtimeconfig.json
+C:\Users\HP\source\repos\GraduationApi v1.0\GraduationApi v1.0\bin\Debug\netcoreapp2.2\GraduationApi v1.0.runtimeconfig.dev.json
+C:\Users\HP\source\repos\GraduationApi v1.0\GraduationApi v1.0\bin\Debug\netcoreapp2.2\GraduationApi v1.0.dll
+C:\Users\HP\source\repos\GraduationApi v1.0\GraduationApi v1.0\bin\Debug\netcoreapp2.2\GraduationApi v1.0.pdb
+C:\Users\HP\source\repos\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.AssemblyInfo.cs
+C:\Users\HP\source\repos\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.dll
+C:\Users\HP\source\repos\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.pdb
+I:\JEEZ\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.csproj.CoreCompileInputs.cache
+I:\JEEZ\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.AssemblyInfoInputs.cache
+I:\JEEZ\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.AssemblyInfo.cs
+I:\JEEZ\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.dll
+I:\JEEZ\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.pdb
+I:\JEEZ\GraduationApi v1.0\GraduationApi v1.0\bin\Debug\netcoreapp2.2\GraduationApi v1.0.deps.json
+I:\JEEZ\GraduationApi v1.0\GraduationApi v1.0\bin\Debug\netcoreapp2.2\GraduationApi v1.0.runtimeconfig.json
+I:\JEEZ\GraduationApi v1.0\GraduationApi v1.0\bin\Debug\netcoreapp2.2\GraduationApi v1.0.runtimeconfig.dev.json
+I:\JEEZ\GraduationApi v1.0\GraduationApi v1.0\bin\Debug\netcoreapp2.2\GraduationApi v1.0.dll
+I:\JEEZ\GraduationApi v1.0\GraduationApi v1.0\bin\Debug\netcoreapp2.2\GraduationApi v1.0.pdb
+I:\JEEZ\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.csprojAssemblyReference.cache
+I:\JEEZ\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.RazorAssemblyInfo.cache
+I:\JEEZ\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.RazorAssemblyInfo.cs
+I:\JEEZ\GraduationApi v1.0\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.RazorTargetAssemblyInfo.cache
+D:\GradPro\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.csprojAssemblyReference.cache
+D:\GradPro\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.csproj.CoreCompileInputs.cache
+D:\GradPro\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.RazorAssemblyInfo.cache
+D:\GradPro\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.RazorAssemblyInfo.cs
+D:\GradPro\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.AssemblyInfoInputs.cache
+D:\GradPro\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.AssemblyInfo.cs
+D:\GradPro\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.dll
+D:\GradPro\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.pdb
+D:\GradPro\GraduationApi v1.0\bin\Debug\netcoreapp2.2\GraduationApi v1.0.deps.json
+D:\GradPro\GraduationApi v1.0\bin\Debug\netcoreapp2.2\GraduationApi v1.0.runtimeconfig.json
+D:\GradPro\GraduationApi v1.0\bin\Debug\netcoreapp2.2\GraduationApi v1.0.runtimeconfig.dev.json
+D:\GradPro\GraduationApi v1.0\bin\Debug\netcoreapp2.2\GraduationApi v1.0.dll
+D:\GradPro\GraduationApi v1.0\bin\Debug\netcoreapp2.2\GraduationApi v1.0.pdb
+D:\GradPro\GraduationApi v1.0\obj\Debug\netcoreapp2.2\GraduationApi v1.0.RazorTargetAssemblyInfo.cache
